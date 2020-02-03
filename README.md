@@ -20,6 +20,7 @@
 #The first iteration of the first chart was a stacked area chart. This proved to be confusing for both my testers, as they saw the lower areas  as having less than the higher areas, because they pictured it as a sort of series of half full pictures layered on top of one another. So using this feedback, I switched to a bar chart and labeled the percentages on each bar. It’s not as neat as the stacked area chart, but it does look better than the original, and it is clearer as well, at least from my users input. I had immediate understanding for the second chart, so I pretty much left it as is. 
 
 
+
 <!DOCTYPE html>
 <!-- Created by pdf2htmlEX (https://github.com/coolwanglu/pdf2htmlex) -->
 <html xmlns="http://www.w3.org/1999/xhtml">
