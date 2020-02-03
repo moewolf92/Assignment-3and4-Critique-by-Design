@@ -19,4 +19,3 @@
 
 #The first iteration of the first chart was a stacked area chart. This proved to be confusing for both my testers, as they saw the lower areas  as having less than the higher areas, because they pictured it as a sort of series of half full pictures layered on top of one another. So using this feedback, I switched to a bar chart and labeled the percentages on each bar. It’s not as neat as the stacked area chart, but it does look better than the original, and it is clearer as well, at least from my users input. I had immediate understanding for the second chart, so I pretty much left it as is. 
 
-#https://github.com/moewolf92/Assignment-3and4-Critique-by-Design/blob/master/HW3and4.pdf
